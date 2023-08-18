@@ -1,1 +1,7 @@
+# Mac Finder
 .DS_Store
+
+# BricsCAD working files/backups
+*.dwl
+*.dwl2
+*.bak
