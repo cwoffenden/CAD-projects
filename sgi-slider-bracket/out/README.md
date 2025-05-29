@@ -24,6 +24,6 @@ The resulting parts take your choice of cage nut, either M5 or M6 (or UNF 10-32)
 
 ## Optional 3D Printed Parts
 
-- `drill-template-front.step`, `drill-template-middle.step` and `drill-template-back.step` templates to aide drilling the SGI mounting holes (clip into place and use a pin punch to mark the inner rail, follow with a centre punch, then a 5mm drill bit)
+- `drill-template-front.step`, `drill-template-middle.step` and `drill-template-back.step` templates to aid drilling the SGI mounting holes (clip into place and use a pin punch to mark the inner rail, follow with a centre punch, then a 5mm drill bit)
 - `o350-saw-jig.step` jig to remove an excess 11mm when mounting the sliders on an Origin 350 (or any other machine in the CMN026 chassis); the longer Origin 300 is already the perfect size
 - `o350-rail-filler.step` having removed 11mm, this part fills the end of the outer rail to stop the slider going too far
